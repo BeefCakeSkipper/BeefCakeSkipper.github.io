@@ -1,0 +1,1 @@
+This was a website I editted when I was attempting the Cloud Resume Challenge. Any AWS resource ID in my codes have long since been terminated. A live demo of the website is at https://beefcakeskipper.github.io 
